@@ -1,2 +1,3 @@
-# powershell-export-edge-bookmarks
-Custom PowerShell Script to export Microsoft Edge bookmarks/favorites for current user. Useful for when Edge UserProfile is corrupt or inaccessible via a UI.
+# Convert-EdgeBookmarksToHtml
+
+Convert Microsoft Edge bookmarks/favorites to HTML. Created as a tool for when User Profile is corrupt to prevent loss of data.
